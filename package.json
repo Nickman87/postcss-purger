@@ -1,0 +1,21 @@
+{
+  "name": "postcss-purger",
+  "version": "0.0.1",
+  "description": "PostCSS plugin to purge certain nodes",
+  "keywords": [
+    "css",
+    "postcss",
+    "postcss-plugin",
+    "purge"
+  ],
+  "author": "Nick De Frangh",
+  "license": "MIT",
+  "repository": "https://github.com/Nickman87/postcss-purger.git",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "postcss": "^5.0.2",
+    "postcss-message-helpers": "^2.0.0"
+  }
+}
